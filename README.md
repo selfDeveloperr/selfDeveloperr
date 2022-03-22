@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @selfDeveloperr
-- 👀 I’m interested in app development.
-- 🌱 I’m currently learning JavaScript
-- 📫 How to reach me abdurrahmant61@gmail.com
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning web
+- 📫 How to reach me abdurrahmant61rr@gmail.com
 
 <!---
 selfDeveloperr/selfDeveloperr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
